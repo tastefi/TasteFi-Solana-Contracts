@@ -26,7 +26,7 @@ This repository is part of TasteFi’s open-source initiative, aligning with the
 
 ## Project Structure
 The project is organized as an Anchor workspace with multiple Solana programs (smart contracts) and a test suite:
-\`\`\`
+```
 tastefi-solana-contracts/
 ├── programs/
 │   ├── tastefi_payment_processing/
@@ -48,7 +48,7 @@ tastefi-solana-contracts/
 ├── package.json               # Node.js dependencies for testing
 ├── .gitignore                 # Git ignore rules
 └── README.md                  # This file
-\`\`\`
+```
 
 ## Smart Contracts
 The following Solana programs power TasteFi’s core features:
